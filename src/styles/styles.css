@@ -1,3 +1,7 @@
+html {
+    background-color: rgb(219, 219, 219);
+}
+
 .App {
     font-family: sans-serif;
     text-align: center;
@@ -10,12 +14,13 @@
 }
 
 .btn {
-    width: 120px;
-    border: 2px solid purple;
-    background: lavender;
+    width: 60px;
+    border: 2px solid teal;
+    background: rgb(217, 237, 237);
     font-weight: bold;
     letter-spacing: 1px;
-    padding: 10px;
+    padding: 5px;
     margin: 0 auto;
     display: block;
+    border-radius: 10px;
 }
